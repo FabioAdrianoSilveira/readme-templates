@@ -6,7 +6,7 @@ Repositório que armazena modelos de README para repositórios.
 
 Template de README para repositórios de código, suas utilidades principais são apresentar o projeto e instruir na sua utilização.
 
-- [repositorio.md](./templates/codigo.md)
+- [codigo.md](./templates/codigo.md)
 
 ## README para repositórios de projeto Spinoff
 
